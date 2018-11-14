@@ -1,0 +1,6 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Arbolito\Arbolito\bin\Debug\Arbolito.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Arbolito\Arbolito\bin\Debug\Arbolito.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Arbolito\Arbolito\bin\Debug\Arbolito.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Arbolito\Arbolito\obj\Debug\Arbolito.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Arbolito\Arbolito\obj\Debug\Arbolito.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Arbolito\Arbolito\obj\Debug\Arbolito.pdb
